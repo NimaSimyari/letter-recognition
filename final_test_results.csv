@@ -1,0 +1,2 @@
+Model,Dataset,Accuracy,Macro Precision,Macro Recall,Macro F1-score
+Random Forest Tuned,Untouched Test Set,0.9665,0.9668493308301034,0.9662322225288799,0.9663560787573977
